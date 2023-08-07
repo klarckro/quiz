@@ -23,10 +23,6 @@ export default createRouter({
     {
       path: '/final',
       component: () => import('@/views/Final.vue'),
-    },
-    {
-      path: '/winner',
-      component: () => import('@/views/Winner.vue'),
     }
   ],
 })

@@ -9,7 +9,6 @@
       </n-layout>
     </n-space>
     <Background/>
-    <router-link to="/winner" class="to-winner">Winner</router-link>
   </template>
   
   <script lang="ts">
