@@ -1,0 +1,176 @@
+
+
+[
+    {
+      "image": "../src/assets/images/prez/solo_none.png",
+      "subtitle": ""
+    },
+    {
+      "sound": "../src/assets/audio/spoken/01.mp3",
+      "image": "../src/assets/images/prez/solo_joe.png",
+      "subtitle": "Hey there Rob. Sorry, I know I was supposed to call you later but can you believe it? Barack changed the Netflix password at the White House, so I can't binge watch Gilmore Girls anymore. So yeah, I thought I'd call you earlier, you know."
+    },
+    {
+      "image": "../src/assets/images/prez/solo_none.png",
+      "subtitle": ""
+    },
+    {
+      "sound": "../src/assets/audio/spoken/02.mp3",
+      "image": "../src/assets/images/prez/solo_joe.png",
+      "subtitle": "Hah, well, actually, that's not the real reason I called you, man. Raz actually told us to call you right at this hour just so we could crash the party. Hey there, Raz!"
+    },
+    {
+      "image": "../src/assets/images/prez/solo_none.png"
+    },
+    {
+      "sound": "../src/assets/audio/spoken/03.mp3",
+      "image": "../src/assets/images/prez/solo_joe.png",
+      "subtitle": "Man, Mr. Berlin! Glad you're still alive after that wild dungeon party last month. Those Germans really are something else, let me tell you..."
+    },
+    {
+      "image": "../src/assets/images/prez/solo_none.png",
+      "subtitle": ""
+    },
+    {
+      "sound": "../src/assets/audio/spoken/04.mp3",
+      "image": "../src/assets/images/prez/solo_joe.png",
+      "subtitle": "Yeah, Raz told me and our two mutual friends. Well one is a friend, the other one is a bit of an asshole and I didn't really want to invite him, but I had to, otherwise he'd just never stop nagging me about it, you know."
+    },
+    {
+      "image": "../src/assets/images/prez/solo_none.png",
+      "subtitle": ""
+    },
+    {
+      "sound": "../src/assets/audio/spoken/05.mp3",
+      "image": "../src/assets/images/prez/solo_joe.png",
+      "subtitle": "I'll just add them to this call now."
+    },
+    {
+      "sound": "../src/assets/audio/spoken/06.mp3",
+      "image": "../src/assets/images/prez/trio_barack.png",
+      "subtitle": "What's up, bros?"
+    },
+    {
+      "sound": "../src/assets/audio/spoken/07.mp3",
+      "image": "../src/assets/images/prez/trio_joe.png",
+      "subtitle": "Man, I love it when Barack calls me his bro. That's really cool of him, you know. Makes me feel special."
+    },
+    {
+      "sound": "../src/assets/audio/spoken/08.mp3",
+      "image": "../src/assets/images/prez/trio_don.png",
+      "subtitle": "Really Joe? He calls everyone his bro. Also, maybe if were a little nicer to me I'd invite you to play at my golf course sometime."
+    },
+    {
+      "sound": "../src/assets/audio/spoken/09.mp3",
+      "image": "../src/assets/images/prez/trio_joe.png",
+      "subtitle": "No one cares about your stupid golf course, Don. It's like, filled with statues of yourself and has golden toilet seats. I'ts creepy as hell, man."
+    },
+    {
+      "sound": "../src/assets/audio/spoken/10.mp3",
+      "image": "../src/assets/images/prez/trio_don.png",
+      "subtitle": "Joe, shush. We're here to talk about Robs brother, Matthew? Mathieu? Something like that, right?"
+    },
+    {
+      "sound": "../src/assets/audio/spoken/11.mp3",
+      "image": "../src/assets/images/prez/trio_barack.png",
+      "subtitle": "It's Mathias, Donald."
+    },
+    {
+      "sound": "../src/assets/audio/spoken/12.mp3",
+      "image": "../src/assets/images/prez/trio_don.png",
+      "subtitle": "Yeah so his name is Matt. Just like I said. And his wife was who? Annelie? Anichu?"
+    },
+    {
+      "sound": "../src/assets/audio/spoken/13.mp3",
+      "image": "../src/assets/images/prez/trio_barack.png",
+      "subtitle": "That's Annika, Donald."
+    },
+    {
+      "sound": "../src/assets/audio/spoken/14.mp3",
+      "image": "../src/assets/images/prez/trio_don.png",
+      "subtitle": "Annie, exactly. I'm the best with names. Everyone says so."
+    },
+    {
+      "sound": "../src/assets/audio/spoken/15.mp3",
+      "image": "../src/assets/images/prez/trio_joe.png",
+      "subtitle": "Jesus christ, Don. You're so embarrassing. Even the president of Finland, Sally, said that when I met him just a while ago."
+    },
+    {
+      "sound": "../src/assets/audio/spoken/16.mp3",
+      "image": "../src/assets/images/prez/trio_barack.png",
+      "subtitle": "Uuuh cmon guys, Rob is in the middle of his bestman speech, you're embarrasing him. Also by the way, Sally said the same to me about you, Don. You're cringe"
+    },
+    {
+      "sound": "../src/assets/audio/spoken/17.mp3",
+      "image": "../src/assets/images/prez/trio_don.png",
+      "subtitle": "Everyone on Fox News loves me. They all tell me that so it must be true."
+    },
+    {
+      "image": "../src/assets/images/prez/trio_none.png",
+      "subtitle": ""
+    },
+    {
+      "sound": "../src/assets/audio/spoken/18.mp3",
+      "image": "../src/assets/images/prez/trio_barack.png",
+      "subtitle": "Well, we know you're not the best at holding speeches so we thought we'd help you a bit along the way."
+    },
+    {
+      "image": "../src/assets/images/prez/trio_none.png",
+      "subtitle": ""
+    },
+    {
+      "sound": "../src/assets/audio/spoken/19.mp3",
+      "image": "../src/assets/images/prez/trio_joe.png",
+      "subtitle": "Oh. Crap. - Well, actually, - t-there was another thing. It was a, a, uhm, ???..."
+    },
+    {
+      "sound": "../src/assets/audio/spoken/20.mp3",
+      "image": "../src/assets/images/prez/trio_don.png",
+      "subtitle": "Really Joe? Now, of all times?"
+    },
+    {
+      "sound": "../src/assets/audio/spoken/21.mp3",
+      "image": "../src/assets/images/prez/trio_joe.png",
+      "subtitle": "Sorry guys, I'm a bit sleepy, had to run a Counter Strike game against some guy called neks0n or something. Man, that guy was crap."
+    },
+    {
+      "sound": "../src/assets/audio/spoken/22.mp3",
+      "image": "../src/assets/images/prez/trio_barack.png",
+      "subtitle": "Anyways, we actually called you Rob so that you can give our wedding gift to Matt and Annie"
+    },
+    {
+      "sound": "../src/assets/audio/spoken/23.mp3",
+      "image": "../src/assets/images/prez/trio_don.png",
+      "subtitle": "But first, they have to earn it, just like I earned all my many, many millions of dollars"
+    },
+    {
+      "sound": "../src/assets/audio/spoken/24.mp3",
+      "image": "../src/assets/images/prez/trio_joe.png",
+      "subtitle": "That's a very funny joke, Don. But he's right about one thing, you actually have to play to win this one. Nothing comes free in this world, after all."
+    },
+    {
+      "sound": "../src/assets/audio/spoken/25.mp3",
+      "image": "../src/assets/images/prez/trio_barack.png",
+      "subtitle": "Right, so congratulations Annika and Mathias, uhh I hope you have a wonderful night and wish you nothing but the best and a long and prosperous life together."
+    },
+    {
+      "sound": "../src/assets/audio/spoken/26.mp3",
+      "image": "../src/assets/images/prez/trio_don.png",
+      "subtitle": "Congratulations from me too - try not to do the same mistakes I did - Don't make friends with people called Epstein and don't go grabbing things you shouldn't grab. That goes for both of you."
+    },
+    {
+      "sound": "../src/assets/audio/spoken/27.mp3",
+      "image": "../src/assets/images/prez/trio_joe.png",
+      "subtitle": "Congratulations from me as well. - Have fun playing this little game, although unfortunately we can't do 180 points we hope it's fun nonetheless. Anyway uhm, take care of each other, everyone in there. Don't party too hard like you did in Warsaw and yeah, peace out, bitches."
+    },
+    {
+      "sound": "../src/assets/audio/spoken/28.mp3",
+      "image": "../src/assets/images/prez/trio_don.png",
+      "subtitle": "Have a great night guys. Don, signing off."
+    },
+    {
+      "sound": "../src/assets/audio/spoken/29.mp3",
+      "image": "../src/assets/images/prez/trio_barack.png",
+      "subtitle": "See you later, guys. Have fun!"
+    }
+]

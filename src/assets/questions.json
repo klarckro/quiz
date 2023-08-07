@@ -1,0 +1,370 @@
+[
+  {
+    "id": 1,
+    "type": "simple",
+    "title": "Kulinaristinen oppitunti",
+    "titleEng": "Culinary master",
+    "question": "Annikalle: Mitä Mathias söi kolmen vuoden ikäisenä tehdäkseen vaikutuksen parhaaseen ystäväänsä Charlottaan, joka asui samassa Olarin kerrostalossa?",
+    "questionEng": "What did Mathias eat at three years old while trying to impress his neighbor Charlotta, who lived in the same house in Olari?",
+    "answerText": "Olarin Don Juan söi mustia muurahaisia, mikä ei valitettavasti tehonnut Charlottaan sen kummemmin.",
+    "answerTextEng": "Black ants",
+    "winSong": "../src/assets/audio/fx/mat_whisper.mp3",
+    "loseSong": "../src/assets/audio/fx/mat_whisper.mp3",
+    "image": "../src/assets/images/mathias/mathias_kid2.jpeg",
+    "imageAnswer": "../src/assets/images/mathias/mathias_kid2.jpeg",
+    "options": [
+      {
+        "text": "Matoja (Worms)",
+        "correct": false
+      },
+      {
+        "text": "Mustikoita (Blueberries)",
+        "correct": false
+      },
+      {
+        "text": "Sokerimuurahaisia (Black Ants)",
+        "correct": true
+      },
+      {
+        "text": "Koivunlehtiä (Birch Leaves)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "simple",
+    "title": "Suuri runoilija",
+    "titleEng": "The Great Poet",
+    "question": "Annikalle: Kun Mathias oli ensimmäisellä luokalla hänet valittiin lukemaan runo koulun päätyttyä. Mistä runo kertoi?",
+    "questionEng": "After finishing first year at school Mathias was chosen to read a poem he wrote in front of the whole school. What was the poem about?",
+    "answerText": "Mathias omisti runonsa luonnonystävänä Leppäkertuille.",
+    "answerTextEng": "As a friend of Nature, Mathias dedicated his poem to Ladybugs",
+    "image": "../src/assets/images/mathias/mathias_school1.jpeg",
+    "winSong": "../src/assets/audio/fx/good_wow.mp3",
+    "loseSong": "../src/assets/audio/fx/bad_gta.mp3",
+    "options": [
+      {
+        "text": "Leppäkertuista (Ladybugs)",
+        "correct": true
+      },
+      {
+        "text": "Mansikoista (Strawberries)",
+        "correct": false
+      },
+      {
+        "text": "Kesälomasta (Summer Vacation)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "simple",
+    "title": "Puli puli",
+    "titleEng": "Blubb blubb",
+    "question": "Minkä ikäisenä Annika oppi uimaan kellukkeilla?",
+    "questionEng": "At what age did Annika learn to swim using floatation devices?",
+    "answerText": "4kk - Jotkut vain kelluvat jo ihan alusta",
+    "answerTextEng": "4 months - Some just float from the start",
+    "winSong": "../src/assets/audio/fx/good_wow.mp3",
+    "loseSong": "../src/assets/audio/fx/bad_gta.mp3",
+    "image": "../src/assets/images/annika/annika_swim1.jpeg",
+    "options": [
+      {
+        "text": "4 kuukautta (4 months)",
+        "correct": true
+      },
+      {
+        "text": "8 kuukautta (4 months)",
+        "correct": false
+      },
+      {
+        "text": "1 vuosi (1 year)",
+        "correct": false
+      },
+      {
+        "text": "1 vuosi ja 4 kuukautta (1 year and 4 months)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "type": "simple",
+    "title": "Oispa kaljaa",
+    "titleEng": "Kulinaristinen oppitunti",
+    "question": "Minkä sortin oluesta käytetään myös nimikettä 'Mallasviina'?",
+    "questionEng": "What sort of beer is also known as 'Malt Liquor?'",
+    "answerText": "Lager, tietty. Olut-hifistelijä Mathias hoitaa, vai mita?",
+    "answerTextEng": "Lager, of course. Pays to be a beer afficianod, right?",
+    "winSong": "../src/assets/audio/fx/good_sax.mp3",
+    "loseSong": "../src/assets/audio/fx/bad_mario.mp3",
+    "options": [
+      {
+        "text": "Stout",
+        "correct": false
+      },
+      {
+        "text": "Porter",
+        "correct": true
+      },
+      {
+        "text": "Lager",
+        "correct": true
+      },
+      {
+        "text": "Ale",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "type": "simple",
+    "title": "Omituisia juttuja",
+    "titleEng": "Strange things",
+    "question": "Kesäkuu 2023; Stranger Things on Netflixin historian katsotuin sarja. Kuinka monta miljoonaa tuntia sarjan neljättä tuotantokautta on katsottu yhteensä?",
+    "questionEng": "June 2023: Stranger Things is the most watched series in Netflix history. How many million hours has the fourth season of the series been watched in total?",
+    "answerText": "Stranger Things-sarjan neljättä tuotantokautta on katsottu yhteensä yli 1,350,000,000 (1.35 miljardia) tuntia, eli 154'348 vuotta ihmisvuotta.",
+    "answerTextEng": "The fourth season of the Stranger Things series has been viewed a total of >1,350,000,000 (1.35 billion) hours, or 154'348 human years.",
+    "winSong": "../src/assets/audio/fx/good_cheer.mp3",
+    "loseSong": "../src/assets/audio/fx/bad_priceisright.mp3",
+    "options": [
+      {
+        "text": "180 mil. tuntia",
+        "correct": false
+      },
+      {
+        "text": "5'210 mil. tuntia",
+        "correct": false
+      },
+      {
+        "text": "30 mil. tuntia",
+        "correct": false
+      },
+      {
+        "text": "1'350 mil. tuntia",
+        "correct": true
+      },
+      {
+        "text": "545 mil. tuntia",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "type": "simple",
+    "title": "Strawberry Fields/Bodyparts Forever",
+    "question": "Annikalla oli syntyessään mansikkaluomi jossain päin kehoa. Missä?",
+    "questionEng": "Annika had a strawberry-mole somewhere on her body after birth. Where?",
+    "answerText": "Oikeassa pakarassahan se!",
+    "answerTextEng": "Right thigh",
+    "image": "../src/assets/images/annika/annika_house1.jpeg",
+    "imageAnswer": "../src/assets/images/annika/annika_mark1.jpeg",
+    "winSong": "../src/assets/audio/fx/good_wow.mp3",
+    "loseSong": "../src/assets/audio/fx/bad_sunny.mp3",
+    "options": [
+      {
+        "text": "Selässä (Back)",
+        "correct": false
+      },
+      {
+        "text": "Oikeassa pakarassa (right thigh)",
+        "correct": true
+      },
+      {
+        "text": "Vasemmassa pakarassa (left thigh)",
+        "correct": false
+      },
+      {
+        "text": "Pohkeessa (Calf)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "type": "simple",
+    "title": "Painovoiman laki",
+    "titleEng": "Law of gravity",
+    "question": "Mathias kiipeili usein Friisilässä liekkimökin viereisessä puussa. Kerran painovoima voitti ja Mathias kupsahti puusta alas. Mitä Mathiakselta murtui tiputtuaan?",
+    "questionEng": "Mathias once fell down a tree in Friisilä where he used to play. What did he break during the fall?",
+    "answerText": "Solisluu (ja ego) murtui. Molemmat paranivat taas entiselleen ennen pitkää",
+    "answerTextEng": "Collarbone (and ego), though both recovered fairly quickly",
+    "image": "../src/assets/images/mathias/mathias_teen1.jpeg",
+    "winSong": "../src/assets/audio/fx/good_cheer.mp3",
+    "loseSong": "../src/assets/audio/fx/bad_wololo.mp3",
+    "options": [
+      {
+        "text": "Ranne (Wrist)",
+        "correct": false
+      },
+      {
+        "text": "Solisluu (Collar bone)",
+        "correct": true
+      },
+      {
+        "text": "Varvas (Toe)",
+        "correct": false
+      },
+      {
+        "text": "Nenä (Nose)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "type": "simple",
+    "title": "Lääh, Puuh",
+    "titleEng": "Phew!",
+    "question": "Minä vuonna Annika juoksi maratonin?",
+    "questionEng": "What year did Annika run (and finish) a marathon?",
+    "answerText": "2010, eikä kuulema tuntunut missään!",
+    "answerTextEng": "2010, easy peasy as far as we know!",
+    "image": "../src/assets/images/annika/annika_run1.jpeg",
+    "winSong": "../src/assets/audio/fx/good_wow.mp3",
+    "loseSong": "../src/assets/audio/fx/bad_violin.mp3",
+    "options": [
+      {
+        "text": "2008",
+        "correct": false
+      },
+      {
+        "text": "2010",
+        "correct": true
+      },
+      {
+        "text": "2012",
+        "correct": false
+      },
+      {
+        "text": "2014",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "type": "simple",
+    "title": "Kolme ympyrää hallitsee maailmaa",
+    "titleEng": "Three circles to rule the world",
+    "question": "Annikan ensimmäinen Vappu Helsingin kauppatorilla vuonna 1990; Mikä Disney hahmo oli Annikan vappupallossa?",
+    "questionEng": "Annika's first May Day at Helsinki's market square in 1990; Which Disney character was on Annika's May Day balloon?",
+    "answerText": "Minni loistaa olemassaolollaan",
+    "answerTextEng": "Minnie to the rescue!",
+    "winSong": "../src/assets/audio/fx/good_cheer.mp3",
+    "loseSong": "../src/assets/audio/fx/bad_nelson.mp3",
+    "image": "../src/assets/images/annika/annika_minni1.jpeg",
+    "options": [
+      {
+        "text": "Iines Ankka (Daisy Duck)",
+        "correct": false
+      },
+      {
+        "text": "Heluna Ammu (Clarabelle Cow)" ,
+        "correct": false
+      },
+      {
+        "text": "Minni Hiiri (Minnie Mouse)",
+        "correct": true
+      },
+      {
+        "text": "Pluto Koira (Pluto the Dog)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "type": "simple",
+    "title": "Tiukkaa tekee",
+    "titleEng": "That's quite tight",
+    "question": "Mikä on ahtain paikka missä Annika on koskaan tanssinut vaakamamboa?",
+    "questionEng": "What is the smallest space Annika has ever done the 'funny stuff' in?",
+    "answerText": "Huussissa menee pystypainiksi",
+    "answerTextEng": "More like standing up!",
+    "winSong": "../src/assets/audio/fx/good_wow.mp3",
+    "loseSong": "../src/assets/audio/fx/bad_wololo.mp3",
+    "options": [
+      {
+        "text": "Huussi (Outhouse)",
+        "correct": true
+      },
+      {
+        "text": "Hissi (elevator)" ,
+        "correct": false
+      },
+      {
+        "text": "Bajamaja (Toi-Toi)",
+        "correct": false
+      },
+      {
+        "text": "Koirahäkki (Dog cage)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "type": "simple",
+    "title": "Bro-what",
+    "titleEng": "Bro-what",
+    "question": "Mitä lääketieteellinen termi Bromodosis tarkoittaa?",
+    "questionEng": "What does the medical term Bromodosis mean?",
+    "answerText": "Mathiaksen sukat huomenna, eli jalkahiki",
+    "answerTextEng": "Stinky feet juice!",
+    "winSong": "../src/assets/audio/fx/good_cheer.mp3",
+    "loseSong": "../src/assets/audio/fx/bad_gta.mp3",
+    "options": [
+      {
+        "text": "Vuotava nenä (Runny nose)",
+        "correct": true
+      },
+      {
+        "text": "Pahanhajuinen hengitys (Foul breath)" ,
+        "correct": false
+      },
+      {
+        "text": "Haisevat jalat (Smelly feet)",
+        "correct": true
+      },
+      {
+        "text": "Vetiset silmät (wet eyes)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "type": "simple",
+    "title": "Where's the money, Infantino?",
+    "titleEng": "Where's the money, Infantino?",
+    "question": "2023: Mikä on maailman arvokkain urheilujoukkue",
+    "questionEng": "2023: What is the worlds most valuable sports franchise?",
+    "answerText": "Dallas Cowboys maksaa maltaita",
+    "answerTextEng": "Dallas Cowboys is the most valuable",
+    "winSong": "../src/assets/audio/fx/good_cheer.mp3",
+    "loseSong": "../src/assets/audio/fx/bad_gta.mp3",
+    "options": [
+      {
+        "text": "L.A. Lakers",
+        "correct": true
+      },
+      {
+        "text": "Real Madrid" ,
+        "correct": false
+      },
+      {
+        "text": "Manchester United",
+        "correct": true
+      },
+      {
+        "text": "Dallas Cowboys",
+        "correct": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "type": "simple",
+      "title": "Viimeinen kysymys",
+      "titleEng": "The final question",
+      "question": "Onko sieni eläin?",
+      "questionEng": "Are mushrooms animals?",
+      "answerText": "SIENI EI OLE ELÄIN! OLETTE VOITTANEET!",
+      "answerTextEng": "MUSHROOMS ARE NOT ANIMALS! YOU WIN!",
+      "winSong": "../src/assets/audio/fx/good_sieni.mp3",
+      "loseSong": "../src/assets/audio/fx/mat_whisper.mp3",
+      "image": "",
+      "options": [
+        {
+          "text": "Kyllä (Yes)",
+          "correct": true
+        },
+        {
+          "text": "Ei (No)",
+          "correct": true
+        }
+      ]
+    }
+  ]
+  
